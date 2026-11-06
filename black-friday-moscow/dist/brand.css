@@ -1,0 +1,2 @@
+@font-face{font-family:Inter;src:url('assets/fonts/inter-variable.ttf') format('truetype');font-weight:100 900;font-style:normal;font-display:swap}
+:root{--accent:#ff3d3d;--accent-strong:#ad1e22;--ink:#141414;--muted:#626262;--body:Inter,Arial,sans-serif;--display:Inter,Arial,sans-serif;--radius-card:24px;--radius-panel:32px;--radius-button:14px}

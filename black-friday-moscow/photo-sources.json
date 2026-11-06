@@ -1,0 +1,33 @@
+[
+  {
+    "file": "theatre-web.webp",
+    "source": "https://gorbilet.ru/msk/actions/spektakl-chajka-v-teatre-na-taganke/",
+    "image": "https://media.gorbilet.ru/bd/f1/1d/CHAYKA_0832-www.jpg.webp",
+    "credit": "Ира Полярная",
+    "use": "Театральный кадр в карточке подборки театра"
+  },
+  {
+    "file": "concert.webp",
+    "source": "https://gorbilet.ru/msk/actions/kontsert-atomic-cellos-mirovye-rok-hity-na-violoncheljah-so-skidkoj/",
+    "image": "https://media.gorbilet.ru/e8/01/60/Photogenica-PHX372346040_LcxDa9o.jpg",
+    "use": "Музыкальная иллюстрация из материалов концерта"
+  },
+  {
+    "file": "kids-web.webp",
+    "source": "https://gorbilet.ru/msk/actions/spektakl-rusalochka-so-skidkoj-30/",
+    "image": "https://media.gorbilet.ru/60/6d/90/IMG_6162_1.jpg",
+    "use": "Театральный кадр как иллюстрация категории, без продажи билетов на конкретный показ"
+  },
+  {
+    "file": "family-web.webp",
+    "source": "https://gorbilet.ru/msk/actions/muzej-diorama-tsar-maket/",
+    "image": "https://media.gorbilet.ru/2d/76/6f/IMG_20250715_145810_571.jpeg",
+    "use": "Музейная экспозиция"
+  },
+  {
+    "file": "standup-web.webp",
+    "source": "https://gorbilet.ru/msk/actions/stendap-glavnyj-kontsert-nedeli/",
+    "image": "https://media.gorbilet.ru/7f/00/ed/RJmX75w-RHc.jpg",
+    "use": "Портрет из материалов программы"
+  }
+]

@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+Thumbs.db
+/landing.html
+/black-friday-moscow/gorbilet-black-friday-moscow/
+/black-friday-moscow/gorbilet-black-friday-moscow.html
+/black-friday-moscow/gorbilet-black-friday-moscow.zip
+/black-friday-moscow/dist/landing.html
+/black-friday-moscow/preview/
+/black-friday-moscow/tmp/
+/black-friday-moscow/versions/
