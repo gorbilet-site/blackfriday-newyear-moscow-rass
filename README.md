@@ -2,7 +2,7 @@
 
 Лендинг с акциями на спектакли, концерты, стендап, семейный отдых и новогодние события в Москве.
 
-Сайт: https://gorbilet-site.github.io/blackfriday-newyear-moscow/
+Сайт: https://gorbilet-site.github.io/blackfriday-newyear-moscow-rass/
 
 ## Файлы
 
